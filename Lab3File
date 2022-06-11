@@ -1,3 +1,6 @@
 file = open('harvarinder.txt', 'w')
 file.write('this is harvarinder kaur sidhu's file')
 file.close
+def helloWorld()
+     print('Hello World')
+helloWorld()
